@@ -76,7 +76,7 @@ Le volume horaire de travail est le seul prédicteur significatif dans les modè
 
 ## 🛠️ Outils utilisés
 
-- **Python** — `pandas`, `scipy.stats`, `sklearn`
+- **Python** — `pandas`, `scipy.stats`, `statsmodels`
 - **Excel** — tableaux de contingence, fonction `TEST.KHIDEUX`
 - **Google Forms** — collecte des données
 
